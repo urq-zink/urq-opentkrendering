@@ -1,2 +1,2 @@
 # opentk-renderer
-Contain all the elements for rendering stuff using OpenTK's OpenGL
+This is an experiment repo for graphics drawing using OpenTK's OpenGL
