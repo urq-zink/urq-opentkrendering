@@ -6,8 +6,15 @@ namespace OpenTKRendering
 {
     public class Game : GameWindow
     {
-        public Game() : base(GameWindowSettings.Default, NativeWindowSettings.Default)
+        public Game() 
+            : base(GameWindowSettings.Default, new NativeWindowSettings 
+            {
+                Size = new OpenTK.Mathematics.Vector2i(1600, 900),
+                Title = "OpenTK graphics",
+                Vsync = VSyncMode.On
+             })
         {
+            CenterWindow();
         }
 
         protected override void OnLoad()
