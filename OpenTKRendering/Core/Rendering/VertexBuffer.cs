@@ -49,6 +49,7 @@ namespace OpenTKRendering.Core.Rendering
 
         public void Dispose()
         {
+            // Clean up VAO and VBO
             GL.BindVertexArray(0);
             GL.DeleteVertexArray(_vaoHandle);
 
