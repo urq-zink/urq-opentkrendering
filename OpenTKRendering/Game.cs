@@ -9,7 +9,7 @@ namespace OpenTKRendering
         public Game() 
             : base(GameWindowSettings.Default, new NativeWindowSettings 
             {
-                Size = new OpenTK.Mathematics.Vector2i(1600, 900),
+                ClientSize = new OpenTK.Mathematics.Vector2i(1600, 900),
                 Title = "OpenTK graphics",
                 Vsync = VSyncMode.On
              })
