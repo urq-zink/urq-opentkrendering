@@ -31,8 +31,6 @@ C:\Users\Admin\source\repos\OpenTKBasics\OpenTKBasics\obj\Debug\net8.0\refint\Op
 C:\Users\Admin\source\repos\OpenTKBasics\OpenTKBasics\obj\Debug\net8.0\OpenTKRendering.pdb
 C:\Users\Admin\source\repos\OpenTKBasics\OpenTKBasics\obj\Debug\net8.0\OpenTKRendering.genruntimeconfig.cache
 C:\Users\Admin\source\repos\OpenTKBasics\OpenTKBasics\obj\Debug\net8.0\ref\OpenTKRendering.dll
-C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\bin\Debug\net8.0\shaders\shader.frag
-C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\bin\Debug\net8.0\shaders\shader.vert
 C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\bin\Debug\net8.0\OpenTKRendering.exe
 C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\bin\Debug\net8.0\OpenTKRendering.deps.json
 C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\bin\Debug\net8.0\OpenTKRendering.runtimeconfig.json
@@ -64,3 +62,6 @@ C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\obj\Debug\net8.0
 C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\obj\Debug\net8.0\OpenTKRendering.pdb
 C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\obj\Debug\net8.0\OpenTKRendering.genruntimeconfig.cache
 C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\obj\Debug\net8.0\ref\OpenTKRendering.dll
+C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\bin\Debug\net8.0\Graphics\Shaders\shader.frag
+C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\bin\Debug\net8.0\Graphics\Shaders\shader.vert
+C:\Users\Admin\source\repos\urq-opentkrendering\OpenTKRendering\obj\Debug\net8.0\OpenTKRendering.sourcelink.json

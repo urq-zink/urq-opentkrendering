@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Graphics\Shaders\NewFolder\**" />
+    <EmbeddedResource Remove="Graphics\Shaders\NewFolder\**" />
+    <None Remove="Graphics\Shaders\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="OpenTK" Version="4.9.3" />
   </ItemGroup>
 
